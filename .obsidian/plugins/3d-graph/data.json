@@ -1,0 +1,20 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "file:\"Mid\"",
+        "color": "#fa0000"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 5,
+    "linkThickness": 10,
+    "particleSize": 20,
+    "particleCount": 8
+  }
+}

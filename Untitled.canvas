@@ -1,0 +1,292 @@
+{
+  "edges": [
+    {
+      "fromNode": "fad551ce6ed1e26e",
+      "fromSide": "bottom",
+      "id": "26f48eff679ef8c0",
+      "styleAttributes": {
+      },
+      "toNode": "5e8fcedd87c38d8c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "73bcd5a30fd73182",
+      "fromSide": "bottom",
+      "id": "86dd8d46978802cd",
+      "styleAttributes": {
+      },
+      "toNode": "fad551ce6ed1e26e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "78daeaeff7f3c4f4",
+      "fromSide": "bottom",
+      "id": "cde6459be32f754f",
+      "styleAttributes": {
+      },
+      "toNode": "73bcd5a30fd73182",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "aad279a0446b62fe",
+      "fromSide": "bottom",
+      "id": "8bd4270950466163",
+      "styleAttributes": {
+      },
+      "toNode": "78daeaeff7f3c4f4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "78daeaeff7f3c4f4",
+      "fromSide": "left",
+      "id": "03183454562057c7",
+      "styleAttributes": {
+      },
+      "toNode": "2c6f5e2aaf47eb06",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "2c6f5e2aaf47eb06",
+      "fromSide": "bottom",
+      "id": "170b965c1d9ee4f7",
+      "styleAttributes": {
+      },
+      "toNode": "a60d84a0d0ae94b2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a60d84a0d0ae94b2",
+      "fromSide": "bottom",
+      "id": "568b66ddb62ec822",
+      "styleAttributes": {
+      },
+      "toNode": "1419850d9c731f8a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1419850d9c731f8a",
+      "fromSide": "bottom",
+      "id": "c53e5407cca4b92d",
+      "styleAttributes": {
+      },
+      "toNode": "cfbdf1772ed259da",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3e5048bd3fecdc00",
+      "fromSide": "bottom",
+      "id": "363da051b5b01eb9",
+      "styleAttributes": {
+      },
+      "toNode": "2c6f5e2aaf47eb06",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "be264ce83a1da83e",
+      "fromSide": "bottom",
+      "id": "a681593055d284de",
+      "styleAttributes": {
+      },
+      "toNode": "2c6f5e2aaf47eb06",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4e10df1ac1f9601a",
+      "fromSide": "right",
+      "id": "5212b45b3874338d",
+      "styleAttributes": {
+      },
+      "toNode": "a60d84a0d0ae94b2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ab395994d1c70e73",
+      "fromSide": "right",
+      "id": "ca1ea90d69d716df",
+      "styleAttributes": {
+      },
+      "toNode": "a60d84a0d0ae94b2",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "aad279a0446b62fe",
+      "styleAttributes": {
+      },
+      "text": "CalculationController",
+      "type": "text",
+      "width": 260,
+      "x": -200,
+      "y": -520
+    },
+    {
+      "height": 60,
+      "id": "5e8fcedd87c38d8c",
+      "styleAttributes": {
+      },
+      "text": "Clac Table",
+      "type": "text",
+      "width": 260,
+      "x": -200,
+      "y": 460
+    },
+    {
+      "height": 60,
+      "id": "73bcd5a30fd73182",
+      "styleAttributes": {
+      },
+      "text": "CalculationValidation",
+      "type": "text",
+      "width": 260,
+      "x": -200,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "78daeaeff7f3c4f4",
+      "styleAttributes": {
+      },
+      "text": "CalculationBusiness",
+      "type": "text",
+      "width": 260,
+      "x": -200,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "fad551ce6ed1e26e",
+      "styleAttributes": {
+      },
+      "text": "CalculationPercistance",
+      "type": "text",
+      "width": 260,
+      "x": -200,
+      "y": 0
+    },
+    {
+      "height": 60,
+      "id": "cfbdf1772ed259da",
+      "styleAttributes": {
+      },
+      "text": "LeadCalc Table",
+      "type": "text",
+      "width": 260,
+      "x": -560,
+      "y": 460
+    },
+    {
+      "height": 60,
+      "id": "1419850d9c731f8a",
+      "styleAttributes": {
+      },
+      "text": "LeadCalcPercistance",
+      "type": "text",
+      "width": 260,
+      "x": -560,
+      "y": 200
+    },
+    {
+      "height": 60,
+      "id": "a60d84a0d0ae94b2",
+      "styleAttributes": {
+      },
+      "text": "LeadCalcValidation",
+      "type": "text",
+      "width": 260,
+      "x": -560,
+      "y": 80
+    },
+    {
+      "height": 60,
+      "id": "3e5048bd3fecdc00",
+      "styleAttributes": {
+      },
+      "text": "LeadCalc Model",
+      "type": "text",
+      "width": 260,
+      "x": -560,
+      "y": -210
+    },
+    {
+      "height": 60,
+      "id": "a108b87f0bb65037",
+      "styleAttributes": {
+      },
+      "text": "LeadEx Controller",
+      "type": "text",
+      "width": 260,
+      "x": -960,
+      "y": -520
+    },
+    {
+      "height": 60,
+      "id": "be264ce83a1da83e",
+      "styleAttributes": {
+      },
+      "text": "leadEx Business",
+      "type": "text",
+      "width": 260,
+      "x": -960,
+      "y": -210
+    },
+    {
+      "height": 90,
+      "id": "2c6f5e2aaf47eb06",
+      "styleAttributes": {
+      },
+      "text": "LeadCalcBusiness\n\nBerechnungen and normal crud",
+      "type": "text",
+      "width": 260,
+      "x": -560,
+      "y": -60
+    },
+    {
+      "height": 60,
+      "id": "02bee798d2076d7c",
+      "styleAttributes": {
+      },
+      "text": "+ add relevancy to model",
+      "type": "text",
+      "width": 260,
+      "x": 20,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "8e8c0f912cfed8ce",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": 260,
+      "y": -440
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "4e10df1ac1f9601a",
+      "styleAttributes": {
+      },
+      "text": "Member From Experience must be the same as from the calculation",
+      "type": "text",
+      "width": 260,
+      "x": -1060,
+      "y": 60
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "ab395994d1c70e73",
+      "styleAttributes": {
+      },
+      "text": "experience Id cant be used Twice",
+      "type": "text",
+      "width": 260,
+      "x": -1060,
+      "y": 170
+    }
+  ]
+}

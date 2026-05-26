@@ -1,0 +1,57 @@
+{
+  "edges": [
+    {
+      "fromNode": "c52c105c830ee989",
+      "fromSide": "right",
+      "id": "114ba26422f4a8c1",
+      "toNode": "8cf4ecd7b340059e",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "c52c105c830ee989",
+      "styleAttributes": {
+      },
+      "text": "Project",
+      "type": "text",
+      "width": 250,
+      "x": -700,
+      "y": -380
+    },
+    {
+      "height": 60,
+      "id": "8cf4ecd7b340059e",
+      "styleAttributes": {
+      },
+      "text": "app/",
+      "type": "text",
+      "width": 250,
+      "x": -360,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "8edc528534cf8a88",
+      "styleAttributes": {
+      },
+      "text": "bin/",
+      "type": "text",
+      "width": 250,
+      "x": -360,
+      "y": -200
+    },
+    {
+      "height": 60,
+      "id": "fb6e3f7b7490d3b1",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 250,
+      "x": -360,
+      "y": -80
+    }
+  ]
+}

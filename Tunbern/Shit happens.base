@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - file.backlinks
+    rowHeight: extra
+    imageFit: contain
+    imageAspectRatio: 0.9
+    image: file.file
+    cardSize: 230
+  - type: table
+    name: View 2
+    rowHeight: medium

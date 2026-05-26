@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:Mid",
+      "color": {
+        "a": 1,
+        "rgb": 4700321
+      }
+    },
+    {
+      "query": "path:\"IT Ninjas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7536895
+      }
+    },
+    {
+      "query": "path:Puzzle  ",
+      "color": {
+        "a": 1,
+        "rgb": 3760382
+      }
+    },
+    {
+      "query": "path:\"Meeting Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:TODO's  ",
+      "color": {
+        "a": 1,
+        "rgb": 5504
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 3.96293135783946,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.623312078019505,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 113,
+  "scale": 0.1548219603550446,
+  "close": true
+}

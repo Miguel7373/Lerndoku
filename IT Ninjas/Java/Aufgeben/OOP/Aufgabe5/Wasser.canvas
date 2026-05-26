@@ -1,0 +1,203 @@
+{
+  "edges": [
+    {
+      "fromNode": "01ca789e4d436502",
+      "fromSide": "bottom",
+      "id": "30719f7d2de6e64d",
+      "toNode": "492cddaa0596faa3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "492cddaa0596faa3",
+      "fromSide": "bottom",
+      "id": "37a4f580a5fd964a",
+      "toNode": "2e7bffe5d9cd7f85",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "492cddaa0596faa3",
+      "fromSide": "bottom",
+      "id": "8223fddcb6b1deed",
+      "toNode": "2d1a9c0c745c3bb2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "492cddaa0596faa3",
+      "fromSide": "bottom",
+      "id": "5894b3041d662620",
+      "toNode": "67cd3d3927080a65",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2e7bffe5d9cd7f85",
+      "fromSide": "bottom",
+      "id": "26a194b54d1978db",
+      "toNode": "28a5c59a6b36d92c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "67cd3d3927080a65",
+      "fromSide": "bottom",
+      "id": "fda7845d4b4dd8e9",
+      "toNode": "5bfffa1df80526b4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2d1a9c0c745c3bb2",
+      "fromSide": "bottom",
+      "id": "d785f0758b825054",
+      "toNode": "b82a2604decb10f0",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 400,
+      "id": "b82a2604decb10f0",
+      "label": "Inhalt",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 250,
+      "x": 20,
+      "y": -420
+    },
+    {
+      "height": 400,
+      "id": "5bfffa1df80526b4",
+      "label": "Inhalt",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 250,
+      "x": -340,
+      "y": -420
+    },
+    {
+      "height": 400,
+      "id": "28a5c59a6b36d92c",
+      "label": "Inhalt",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 250,
+      "x": -700,
+      "y": -420
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "2d1a9c0c745c3bb2",
+      "styleAttributes": {
+      },
+      "text": "Wassermenge",
+      "type": "text",
+      "width": 250,
+      "x": 20,
+      "y": -680
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "67cd3d3927080a65",
+      "styleAttributes": {
+      },
+      "text": "asführungen",
+      "type": "text",
+      "width": 250,
+      "x": -340,
+      "y": -680
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "2e7bffe5d9cd7f85",
+      "styleAttributes": {
+      },
+      "text": "Main",
+      "type": "text",
+      "width": 250,
+      "x": -700,
+      "y": -680
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "01ca789e4d436502",
+      "styleAttributes": {
+      },
+      "text": "Aufgebe 5",
+      "type": "text",
+      "width": 250,
+      "x": -340,
+      "y": -1140
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "492cddaa0596faa3",
+      "styleAttributes": {
+      },
+      "text": "Classes",
+      "type": "text",
+      "width": 250,
+      "x": -340,
+      "y": -920
+    },
+    {
+      "height": 60,
+      "id": "990ddff31216c7c7",
+      "styleAttributes": {
+      },
+      "text": "Menge",
+      "type": "text",
+      "width": 250,
+      "x": 20,
+      "y": -361
+    },
+    {
+      "height": 60,
+      "id": "1450fd496add35b8",
+      "styleAttributes": {
+      },
+      "text": "Einheit",
+      "type": "text",
+      "width": 250,
+      "x": 20,
+      "y": -421
+    },
+    {
+      "height": 60,
+      "id": "172661c1a261c92b",
+      "styleAttributes": {
+      },
+      "text": "Damm",
+      "type": "text",
+      "width": 250,
+      "x": -340,
+      "y": -421
+    },
+    {
+      "height": 60,
+      "id": "8661303dec629c34",
+      "styleAttributes": {
+      },
+      "text": "Auskunft",
+      "type": "text",
+      "width": 250,
+      "x": -340,
+      "y": -361
+    },
+    {
+      "height": 60,
+      "id": "704e23feb7c07151",
+      "styleAttributes": {
+      },
+      "text": "Aufrufen",
+      "type": "text",
+      "width": 250,
+      "x": -700,
+      "y": -421
+    }
+  ]
+}

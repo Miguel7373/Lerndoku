@@ -1,0 +1,1523 @@
+{
+  "edges": [
+    {
+      "fromNode": "3045e1aad8cb0052",
+      "fromSide": "top",
+      "id": "57cee96f9050db63",
+      "toNode": "146f0fd63f5d0db8",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "3045e1aad8cb0052",
+      "fromSide": "bottom",
+      "id": "0077575d16db55da",
+      "toNode": "216a0d41365cadc0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3045e1aad8cb0052",
+      "fromSide": "right",
+      "id": "c938df4759677093",
+      "toNode": "7f2853fa9bc849bf",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "216a0d41365cadc0",
+      "fromSide": "top",
+      "id": "6f3e8f3a0f88dff8",
+      "toNode": "5af571ce7628dbdb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "216a0d41365cadc0",
+      "fromSide": "top",
+      "id": "025a3d8c04287f16",
+      "toNode": "2e59c4ee5fb88a2d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "216a0d41365cadc0",
+      "fromSide": "top",
+      "id": "2961aa73beb16413",
+      "toNode": "c2cb05cd8c744b32",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "216a0d41365cadc0",
+      "fromSide": "top",
+      "id": "4ff4a4faf3b475a7",
+      "toNode": "d4cbdeba0c5bd498",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "216a0d41365cadc0",
+      "fromSide": "top",
+      "id": "d8e040591658b428",
+      "toNode": "a0187a3d847f3804",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "216a0d41365cadc0",
+      "fromSide": "top",
+      "id": "7bebcae115fa14bd",
+      "toNode": "ea2e9e0c8e8a39cc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c5781418a579b809",
+      "fromSide": "right",
+      "id": "60fa497f2c011741",
+      "toNode": "fd0f4b5c9623eb5e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5781418a579b809",
+      "fromSide": "right",
+      "id": "4ca28c770dd63540",
+      "toNode": "b30307c883808240",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ad255a761977aac9",
+      "fromSide": "right",
+      "id": "a665657e08671188",
+      "toNode": "6d4befa710e93c52",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ad255a761977aac9",
+      "fromSide": "right",
+      "id": "65af1ff764b5872b",
+      "toNode": "26fd7c14cc146384",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7f2853fa9bc849bf",
+      "fromSide": "right",
+      "id": "ae93cfc0d84d101d",
+      "toNode": "ad255a761977aac9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7f2853fa9bc849bf",
+      "fromSide": "right",
+      "id": "3819a5eb39ea0705",
+      "toNode": "c5781418a579b809",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e08dc3be4d656038",
+      "fromSide": "right",
+      "id": "015883b42cbaef05",
+      "label": "Hirachie",
+      "toNode": "9ef3f2acbf5c31b1",
+      "toSide": "left"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "a2ca99629169a84d",
+      "fromSide": "right",
+      "id": "5bfada89f7274b43",
+      "label": "Beziehungen",
+      "toNode": "2ba0b1f28586c0ba",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fd0f4b5c9623eb5e",
+      "fromSide": "right",
+      "id": "4fd48bc22a21163b",
+      "toNode": "242929b8b51301fd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b30307c883808240",
+      "fromSide": "right",
+      "id": "ed530389dc99cbe5",
+      "toNode": "eda293cbb22c6be6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6d4befa710e93c52",
+      "fromSide": "right",
+      "id": "52e1c5efe3db4347",
+      "toNode": "3b45931951c33bc5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "26fd7c14cc146384",
+      "fromSide": "right",
+      "id": "13b38cf52197053d",
+      "toNode": "25650bd6f56caa26",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4bc439b26e65d783",
+      "fromSide": "top",
+      "id": "b7b041920a8e7517",
+      "toNode": "2f6385d69bc4649d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4bc439b26e65d783",
+      "fromSide": "bottom",
+      "id": "fbef8be507b7f13e",
+      "toNode": "af9966e776c408a2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4bc439b26e65d783",
+      "fromSide": "right",
+      "id": "f767d7036074bdef",
+      "toNode": "11feef9685353eee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "11feef9685353eee",
+      "fromSide": "right",
+      "id": "1f319d4ae653f7f4",
+      "toNode": "28ae3318f0d6f8b7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "11feef9685353eee",
+      "fromSide": "right",
+      "id": "0e242f3547833919",
+      "toNode": "fe092147186f11f2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "af9966e776c408a2",
+      "fromSide": "top",
+      "id": "fc70c9022a9f4ddc",
+      "toNode": "a1762ba9c0f8c51d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "af9966e776c408a2",
+      "fromSide": "top",
+      "id": "8c966ccb987c9bcc",
+      "toNode": "81ccf1538e9622fb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "af9966e776c408a2",
+      "fromSide": "top",
+      "id": "d288f6037faa4971",
+      "toNode": "fd81593cd167a4bf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "af9966e776c408a2",
+      "fromSide": "top",
+      "id": "c5bbe3cff0cabd6b",
+      "toNode": "0a3f9a7873bb5356",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "af9966e776c408a2",
+      "fromSide": "top",
+      "id": "60256e6aebe7a403",
+      "toNode": "3723af47d351d9d9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "af9966e776c408a2",
+      "fromSide": "top",
+      "id": "ec5cc1f58e936d1b",
+      "toNode": "227aec20bccad4c9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7acd3dfa4a25347a",
+      "fromSide": "right",
+      "id": "0646929915acb618",
+      "toNode": "e921317aa7ee600d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fe092147186f11f2",
+      "fromSide": "right",
+      "id": "7292186bd25ba50b",
+      "toNode": "7acd3dfa4a25347a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e3c0cc4f0cf73c85",
+      "fromSide": "right",
+      "id": "ca24d44abf0e0ad4",
+      "toNode": "f5339a8340a873e1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fe092147186f11f2",
+      "fromSide": "right",
+      "id": "1d4281ff97de8fb7",
+      "toNode": "e3c0cc4f0cf73c85",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "48f72febd246738d",
+      "fromSide": "right",
+      "id": "f2f759be17a3ac92",
+      "toNode": "565af7881ca584db",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "28ae3318f0d6f8b7",
+      "fromSide": "right",
+      "id": "42e0e657fba1e305",
+      "toNode": "48f72febd246738d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1557a0c2d6f22d07",
+      "fromSide": "right",
+      "id": "2a5fe900d9fbfe16",
+      "toNode": "5c23fe95408117f4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "28ae3318f0d6f8b7",
+      "fromSide": "right",
+      "id": "7e61bcd9444d1ae8",
+      "toNode": "1557a0c2d6f22d07",
+      "toSide": "left"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "11feef9685353eee",
+      "fromSide": "top",
+      "id": "aac191a5842221c9",
+      "toNode": "af9966e776c408a2",
+      "toSide": "top"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "9a35d5095df8a878",
+      "fromSide": "left",
+      "id": "8b7236b49c8a1882",
+      "toNode": "0cdca8e1157f3969",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "4bc439b26e65d783",
+      "fromSide": "top",
+      "id": "3e1ac4aa4beca198",
+      "toNode": "131eb3926662dece",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "131eb3926662dece",
+      "fromSide": "top",
+      "id": "79a12abe59cab356",
+      "toNode": "f04bd8a8b268ac0b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4bc439b26e65d783",
+      "fromSide": "left",
+      "id": "7dc8e90c928bc3cf",
+      "toNode": "d004124928aa0aac",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "d004124928aa0aac",
+      "fromSide": "left",
+      "id": "63f36ce8ef24b87e",
+      "toNode": "467f7b9b9622a793",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "d004124928aa0aac",
+      "fromSide": "left",
+      "id": "5430ef3c8cd5f6aa",
+      "toNode": "eac17290d23a52dc",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "467f7b9b9622a793",
+      "fromSide": "left",
+      "id": "2a7c8d5f57aeb404",
+      "toNode": "08df9d8e97b7396f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "467f7b9b9622a793",
+      "fromSide": "left",
+      "id": "628584ec5fd5b324",
+      "toNode": "a249e3725c125b10",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "eac17290d23a52dc",
+      "fromSide": "left",
+      "id": "274118a7f2db23a7",
+      "toNode": "3954e47d85b585a7",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "eac17290d23a52dc",
+      "fromSide": "left",
+      "id": "9ad3ea7f7639546b",
+      "toNode": "b6e0a3ceb6c405ba",
+      "toSide": "right"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "d004124928aa0aac",
+      "fromSide": "top",
+      "id": "582ed1531432de46",
+      "toNode": "af9966e776c408a2",
+      "toSide": "top"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "ff97afb61338a5ec",
+      "fromSide": "right",
+      "id": "a89572b5525d3c6c",
+      "toNode": "0cdca8e1157f3969",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a5db657a3815bd2e",
+      "fromSide": "right",
+      "id": "f9b58ca52166d3a8",
+      "toNode": "eec7d9e55e502202",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eec7d9e55e502202",
+      "fromSide": "right",
+      "id": "a7769d97de76cdf4",
+      "toNode": "5d36cb05a3931189",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eec7d9e55e502202",
+      "fromSide": "right",
+      "id": "ba28b207f05f06cd",
+      "toNode": "43ecf9da8d571dca",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a5db657a3815bd2e",
+      "fromSide": "right",
+      "id": "772cdf4ee7243d34",
+      "toNode": "223ef31e1bcfa351",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "223ef31e1bcfa351",
+      "fromSide": "right",
+      "id": "6a040544f72256f4",
+      "toNode": "86703e493c59cb9b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "223ef31e1bcfa351",
+      "fromSide": "right",
+      "id": "fe8554cb235a9726",
+      "toNode": "c6534a74e92dbcd9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7f2853fa9bc849bf",
+      "fromSide": "right",
+      "id": "103d38d2ea30c3af",
+      "toNode": "a5db657a3815bd2e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7f2853fa9bc849bf",
+      "fromSide": "right",
+      "id": "ac3e5f0354ea727d",
+      "toNode": "1bb60e6ebbe01758",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 400,
+      "id": "3db7ec455221537e",
+      "label": "Bedeutung Farben",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 840,
+      "x": -2400,
+      "y": -5440
+    },
+    {
+      "height": 100,
+      "id": "4beb632a00035927",
+      "label": "Zum Kopieren",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -1120,
+      "y": -5240
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "af9966e776c408a2",
+      "styleAttributes": {
+      },
+      "text": "# GameCharacters",
+      "type": "text",
+      "width": 250,
+      "x": -9166,
+      "y": 656
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "12be0eb3ce05a120",
+      "styleAttributes": {
+      },
+      "text": "# Names",
+      "type": "text",
+      "width": 250,
+      "x": -9166,
+      "y": 716
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "92819aec8d647545",
+      "styleAttributes": {
+      },
+      "text": "# HP",
+      "type": "text",
+      "width": 250,
+      "x": -9166,
+      "y": 776
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "0cdca8e1157f3969",
+      "styleAttributes": {
+      },
+      "text": "# LoadCapacity ",
+      "type": "text",
+      "width": 250,
+      "x": -9166,
+      "y": 836
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "28ae3318f0d6f8b7",
+      "styleAttributes": {
+      },
+      "text": "# Magic rings",
+      "type": "text",
+      "width": 250,
+      "x": -5836,
+      "y": -403
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "48f72febd246738d",
+      "styleAttributes": {
+      },
+      "text": "# Power ring",
+      "type": "text",
+      "width": 250,
+      "x": -5188,
+      "y": -704
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "565af7881ca584db",
+      "styleAttributes": {
+      },
+      "text": "erhöht Tragkraft um einen bestimmten wert",
+      "type": "text",
+      "width": 250,
+      "x": -4836,
+      "y": -644
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "fd81593cd167a4bf",
+      "styleAttributes": {
+      },
+      "text": "# Orcs",
+      "type": "text",
+      "width": 250,
+      "x": -8601,
+      "y": 656
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "1557a0c2d6f22d07",
+      "styleAttributes": {
+      },
+      "text": "# Protective ring",
+      "type": "text",
+      "width": 250,
+      "x": -5196,
+      "y": -88
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "5c23fe95408117f4",
+      "styleAttributes": {
+      },
+      "text": "verringert erlittenen Schaden",
+      "type": "text",
+      "width": 250,
+      "x": -4836,
+      "y": -28
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "11feef9685353eee",
+      "styleAttributes": {
+      },
+      "text": "# Items",
+      "type": "text",
+      "width": 250,
+      "x": -7436,
+      "y": -1104
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "6cbe65528921f16a",
+      "styleAttributes": {
+      },
+      "text": "# Designation",
+      "type": "text",
+      "width": 250,
+      "x": -7436,
+      "y": -1044
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "9a35d5095df8a878",
+      "styleAttributes": {
+      },
+      "text": "# Weight",
+      "type": "text",
+      "width": 250,
+      "x": -7436,
+      "y": -984
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "fe092147186f11f2",
+      "styleAttributes": {
+      },
+      "text": "# Potions",
+      "type": "text",
+      "width": 250,
+      "x": -5836,
+      "y": -1904
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "e3c0cc4f0cf73c85",
+      "styleAttributes": {
+      },
+      "text": "# Strength potion",
+      "type": "text",
+      "width": 250,
+      "x": -5196,
+      "y": -1584
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "7acd3dfa4a25347a",
+      "styleAttributes": {
+      },
+      "text": "# Healing potion",
+      "type": "text",
+      "width": 250,
+      "x": -5188,
+      "y": -2200
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "e921317aa7ee600d",
+      "styleAttributes": {
+      },
+      "text": "erhöht Anzahl Lebenspunkte",
+      "type": "text",
+      "width": 250,
+      "x": -4836,
+      "y": -2140
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "f5339a8340a873e1",
+      "styleAttributes": {
+      },
+      "text": "erhöht den Angriffs Wert um einen Bestimmten wert",
+      "type": "text",
+      "width": 250,
+      "x": -4836,
+      "y": -1524
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "0a3f9a7873bb5356",
+      "styleAttributes": {
+      },
+      "text": "# Goblins",
+      "type": "text",
+      "width": 250,
+      "x": -8036,
+      "y": 656
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "3723af47d351d9d9",
+      "styleAttributes": {
+      },
+      "text": "# Trolls",
+      "type": "text",
+      "width": 250,
+      "x": -7476,
+      "y": 656
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "81ccf1538e9622fb",
+      "styleAttributes": {
+      },
+      "text": "# Human",
+      "type": "text",
+      "width": 250,
+      "x": -10871,
+      "y": 656
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "f04bd8a8b268ac0b",
+      "styleAttributes": {
+      },
+      "text": "Kampfwert berechnen ",
+      "type": "text",
+      "width": 250,
+      "x": -11055,
+      "y": -2560
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "d004124928aa0aac",
+      "styleAttributes": {
+      },
+      "text": "# Weapons",
+      "type": "text",
+      "width": 250,
+      "x": -10876,
+      "y": -1104
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "131eb3926662dece",
+      "styleAttributes": {
+      },
+      "text": "# Fight",
+      "type": "text",
+      "width": 250,
+      "x": -10791,
+      "y": -2401
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "94971d88b73c3e5c",
+      "styleAttributes": {
+      },
+      "text": "# Attack value",
+      "type": "text",
+      "width": 250,
+      "x": -10876,
+      "y": -1044
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "ff97afb61338a5ec",
+      "styleAttributes": {
+      },
+      "text": "# Weight",
+      "type": "text",
+      "width": 250,
+      "x": -10876,
+      "y": -984
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a1762ba9c0f8c51d",
+      "styleAttributes": {
+      },
+      "text": "# Dwarves",
+      "type": "text",
+      "width": 250,
+      "x": -10301,
+      "y": 656
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "227aec20bccad4c9",
+      "styleAttributes": {
+      },
+      "text": "# Elves",
+      "type": "text",
+      "width": 250,
+      "x": -9731,
+      "y": 656
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "99191621656bcc28",
+      "styleAttributes": {
+      },
+      "text": "# MagicValue",
+      "type": "text",
+      "width": 250,
+      "x": -9731,
+      "y": 716
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "2f6385d69bc4649d",
+      "styleAttributes": {
+      },
+      "text": "# Main",
+      "type": "text",
+      "width": 250,
+      "x": -7186,
+      "y": -3054
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "5d36cb05a3931189",
+      "styleAttributes": {
+      },
+      "text": "# sword",
+      "type": "text",
+      "width": 250,
+      "x": 3848,
+      "y": 1760
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "eec7d9e55e502202",
+      "styleAttributes": {
+      },
+      "text": "# Melee weapons",
+      "type": "text",
+      "width": 250,
+      "x": 3200,
+      "y": 2061
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4bc439b26e65d783",
+      "styleAttributes": {
+      },
+      "text": "# RolePlay",
+      "type": "text",
+      "width": 250,
+      "x": -9166,
+      "y": -1104
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "08df9d8e97b7396f",
+      "styleAttributes": {
+      },
+      "text": "# club",
+      "type": "text",
+      "width": 250,
+      "x": -13120,
+      "y": -29
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "b6e0a3ceb6c405ba",
+      "styleAttributes": {
+      },
+      "text": "# Bow",
+      "type": "text",
+      "width": 250,
+      "x": -13120,
+      "y": -1568
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "3954e47d85b585a7",
+      "styleAttributes": {
+      },
+      "text": "# ThrowingKnife",
+      "type": "text",
+      "width": 250,
+      "x": -13112,
+      "y": -2184
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a249e3725c125b10",
+      "styleAttributes": {
+      },
+      "text": "# sword",
+      "type": "text",
+      "width": 250,
+      "x": -13112,
+      "y": -645
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "eac17290d23a52dc",
+      "styleAttributes": {
+      },
+      "text": "# Ranged weapons",
+      "type": "text",
+      "width": 250,
+      "x": -12276,
+      "y": -1884
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "467f7b9b9622a793",
+      "styleAttributes": {
+      },
+      "text": "# Melee weapons",
+      "type": "text",
+      "width": 250,
+      "x": -12276,
+      "y": -344
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "5eb608b02a06dfba",
+      "styleAttributes": {
+      },
+      "text": "# Defense value",
+      "type": "text",
+      "width": 250,
+      "x": -12276,
+      "y": -284
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "0c5470887cdb63fb",
+      "styleAttributes": {
+      },
+      "text": "# Attack value",
+      "type": "text",
+      "width": 250,
+      "x": 2560,
+      "y": 1500
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a5db657a3815bd2e",
+      "styleAttributes": {
+      },
+      "text": "# Weapons",
+      "type": "text",
+      "width": 250,
+      "x": 2560,
+      "y": 1440
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "6d4befa710e93c52",
+      "styleAttributes": {
+      },
+      "text": "# Power ring",
+      "type": "text",
+      "width": 250,
+      "x": 3208,
+      "y": -800
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "ad255a761977aac9",
+      "styleAttributes": {
+      },
+      "text": "# Magic rings",
+      "type": "text",
+      "width": 250,
+      "x": 2560,
+      "y": -499
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "43ecf9da8d571dca",
+      "styleAttributes": {
+      },
+      "text": "# club",
+      "type": "text",
+      "width": 250,
+      "x": 3840,
+      "y": 2376
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "2cd4dfde4f3d9b22",
+      "styleAttributes": {
+      },
+      "text": "# Defense value",
+      "type": "text",
+      "width": 250,
+      "x": 3200,
+      "y": 2121
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c6534a74e92dbcd9",
+      "styleAttributes": {
+      },
+      "text": "# Bow",
+      "type": "text",
+      "width": 250,
+      "x": 3848,
+      "y": 1116
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "3b45931951c33bc5",
+      "styleAttributes": {
+      },
+      "text": "erhöht Tragkraft um einen bestimmten wert",
+      "type": "text",
+      "width": 250,
+      "x": 3856,
+      "y": -740
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "223ef31e1bcfa351",
+      "styleAttributes": {
+      },
+      "text": "# Ranged weapons",
+      "type": "text",
+      "width": 250,
+      "x": 3208,
+      "y": 800
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "86703e493c59cb9b",
+      "styleAttributes": {
+      },
+      "text": "# ThrowingKnife",
+      "type": "text",
+      "width": 250,
+      "x": 3856,
+      "y": 500
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "1bb60e6ebbe01758",
+      "styleAttributes": {
+      },
+      "text": "# Armor",
+      "type": "text",
+      "width": 250,
+      "x": 2560,
+      "y": -3680
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "fd0f4b5c9623eb5e",
+      "styleAttributes": {
+      },
+      "text": "# Healing potion",
+      "type": "text",
+      "width": 250,
+      "x": 3208,
+      "y": -2296
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "26fd7c14cc146384",
+      "styleAttributes": {
+      },
+      "text": "# Protective ring",
+      "type": "text",
+      "width": 250,
+      "x": 3200,
+      "y": -184
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "b30307c883808240",
+      "styleAttributes": {
+      },
+      "text": "# Strength potion",
+      "type": "text",
+      "width": 250,
+      "x": 3200,
+      "y": -1680
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c5781418a579b809",
+      "styleAttributes": {
+      },
+      "text": "# Potions",
+      "type": "text",
+      "width": 250,
+      "x": 2560,
+      "y": -2000
+    },
+    {
+      "height": 60,
+      "id": "fc88311f19670c19",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 250,
+      "x": 4746,
+      "y": -1615
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "25650bd6f56caa26",
+      "styleAttributes": {
+      },
+      "text": "verringert erlittenen Schaden",
+      "type": "text",
+      "width": 250,
+      "x": 3856,
+      "y": -124
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "eda293cbb22c6be6",
+      "styleAttributes": {
+      },
+      "text": "erhöht den Angriffs Wert um einen Bestimmten wert",
+      "type": "text",
+      "width": 250,
+      "x": 3856,
+      "y": -1620
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "146f0fd63f5d0db8",
+      "styleAttributes": {
+      },
+      "text": "# Main",
+      "type": "text",
+      "width": 250,
+      "x": 960,
+      "y": -2960
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "242929b8b51301fd",
+      "styleAttributes": {
+      },
+      "text": "erhöht Anzahl Lebenspunkte",
+      "type": "text",
+      "width": 250,
+      "x": 3856,
+      "y": -2236
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "216a0d41365cadc0",
+      "styleAttributes": {
+      },
+      "text": "# GameCharacters",
+      "type": "text",
+      "width": 250,
+      "x": -770,
+      "y": 560
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "4ae9454dc5b09ba3",
+      "styleAttributes": {
+      },
+      "text": "# Names",
+      "type": "text",
+      "width": 250,
+      "x": -770,
+      "y": 620
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "0f8b9afb1a913442",
+      "styleAttributes": {
+      },
+      "text": "# HP",
+      "type": "text",
+      "width": 250,
+      "x": -770,
+      "y": 680
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "d4cbdeba0c5bd498",
+      "styleAttributes": {
+      },
+      "text": "# Orcs",
+      "type": "text",
+      "width": 250,
+      "x": -205,
+      "y": 560
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a0187a3d847f3804",
+      "styleAttributes": {
+      },
+      "text": "# Goblins",
+      "type": "text",
+      "width": 250,
+      "x": 360,
+      "y": 560
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "ea2e9e0c8e8a39cc",
+      "styleAttributes": {
+      },
+      "text": "# Trolls",
+      "type": "text",
+      "width": 250,
+      "x": 920,
+      "y": 560
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "3045e1aad8cb0052",
+      "styleAttributes": {
+      },
+      "text": "# RolePlay",
+      "type": "text",
+      "width": 250,
+      "x": -770,
+      "y": -1200
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "7f2853fa9bc849bf",
+      "styleAttributes": {
+      },
+      "text": "# Items",
+      "type": "text",
+      "width": 250,
+      "x": 1520,
+      "y": -1200
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "47791993c50b3a6d",
+      "styleAttributes": {
+      },
+      "text": "# Designation",
+      "type": "text",
+      "width": 250,
+      "x": 1520,
+      "y": -1140
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "e70ce7d7b2789413",
+      "styleAttributes": {
+      },
+      "text": "# Weight",
+      "type": "text",
+      "width": 250,
+      "x": 1520,
+      "y": -1080
+    },
+    {
+      "height": 60,
+      "id": "e08dc3be4d656038",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 50,
+      "x": -2020,
+      "y": -5430
+    },
+    {
+      "height": 60,
+      "id": "9ef3f2acbf5c31b1",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 50,
+      "x": -1620,
+      "y": -5430
+    },
+    {
+      "height": 60,
+      "id": "a2ca99629169a84d",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 50,
+      "x": -2020,
+      "y": -5350
+    },
+    {
+      "color": "6",
+      "height": 50,
+      "id": "f716eb725eab5a20",
+      "styleAttributes": {
+      },
+      "text": "# Überschriften",
+      "type": "text",
+      "width": 360,
+      "x": -2380,
+      "y": -5430
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "bc1b7d27a0d37a0a",
+      "styleAttributes": {
+      },
+      "text": "# Classes Generalisiert",
+      "type": "text",
+      "width": 360,
+      "x": -2380,
+      "y": -5380
+    },
+    {
+      "height": 60,
+      "id": "2ba0b1f28586c0ba",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 50,
+      "x": -1620,
+      "y": -5350
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "4c2bd93f4d522bd9",
+      "styleAttributes": {
+      },
+      "text": "# ",
+      "type": "text",
+      "width": 250,
+      "x": -1100,
+      "y": -5220
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "4509363c6524be6d",
+      "styleAttributes": {
+      },
+      "text": "# LoadCapacity ",
+      "type": "text",
+      "width": 250,
+      "x": -770,
+      "y": 740
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "ad90daadda56de0a",
+      "styleAttributes": {
+      },
+      "text": "# Attribute",
+      "type": "text",
+      "width": 360,
+      "x": -2380,
+      "y": -5200
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "abdc44474ef5099d",
+      "styleAttributes": {
+      },
+      "text": "# Classes Spezialisiert",
+      "type": "text",
+      "width": 360,
+      "x": -2380,
+      "y": -5320
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "834ea6eadaa8f844",
+      "styleAttributes": {
+      },
+      "text": "# Funktionen",
+      "type": "text",
+      "width": 360,
+      "x": -2380,
+      "y": -5260
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "2e59c4ee5fb88a2d",
+      "styleAttributes": {
+      },
+      "text": "# Dwarves",
+      "type": "text",
+      "width": 250,
+      "x": -1905,
+      "y": 560
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c2cb05cd8c744b32",
+      "styleAttributes": {
+      },
+      "text": "# Human",
+      "type": "text",
+      "width": 250,
+      "x": -2475,
+      "y": 560
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "5af571ce7628dbdb",
+      "styleAttributes": {
+      },
+      "text": "# Elves",
+      "type": "text",
+      "width": 250,
+      "x": -1335,
+      "y": 560
+    },
+    {
+      "color": "#1e00ff",
+      "height": 60,
+      "id": "a1882e68b83e15a4",
+      "styleAttributes": {
+      },
+      "text": "# MagicValue",
+      "type": "text",
+      "width": 250,
+      "x": -1335,
+      "y": 620
+    },
+    {
+      "height": 60,
+      "id": "242cdac0d958b402",
+      "styleAttributes": {
+      },
+      "text": "nuef buf human",
+      "type": "text",
+      "width": 250,
+      "x": -2589,
+      "y": -2560
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "36883bed3397fdff",
+      "styleAttributes": {
+      },
+      "text": "Kampfwert definded by useed weapon * 0,9 - 1.1*",
+      "type": "text",
+      "width": 250,
+      "x": -2589,
+      "y": -2760
+    },
+    {
+      "height": 60,
+      "id": "efb9deccf3c35090",
+      "styleAttributes": {
+      },
+      "text": "Kampf",
+      "type": "text",
+      "width": 250,
+      "x": -2781,
+      "y": -2291
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "6334af9c015b63db",
+      "styleAttributes": {
+      },
+      "text": "# Main Klasse",
+      "type": "text",
+      "width": 360,
+      "x": -2380,
+      "y": -5140
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "edges": [
+    {
+      "fromNode": "b084066f368fc279",
+      "fromSide": "top",
+      "id": "bb7519a8106a78d5",
+      "toNode": "e6c8c76bdba0175a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5d779d5408269acc",
+      "fromSide": "right",
+      "id": "28cea6f4830df080",
+      "toNode": "b084066f368fc279",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "1a5fc4bfc3a3687a",
+      "fromSide": "left",
+      "id": "6fa452bc4f8930bb",
+      "toNode": "a1228bc3f33007a7",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a1228bc3f33007a7",
+      "fromSide": "left",
+      "id": "c5cdf3318b0d5c41",
+      "toNode": "e6c8c76bdba0175a",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "b084066f368fc279",
+      "fromSide": "top",
+      "id": "66ed975aad308da2",
+      "toNode": "cecdda275f47ca34",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cecdda275f47ca34",
+      "fromSide": "left",
+      "id": "32cc1abf5d2efff6",
+      "toNode": "98bcf519ff0b5ea8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "98bcf519ff0b5ea8",
+      "fromSide": "left",
+      "id": "36bd02f1d9a74f86",
+      "toNode": "d4a872665bc2efc9",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "094f4e10e0d985a9",
+      "fromSide": "top",
+      "id": "b37f456b37da897c",
+      "toNode": "f982428a81e19284",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e6c8c76bdba0175a",
+      "fromSide": "left",
+      "id": "cb49a0d090ec83eb",
+      "toNode": "094f4e10e0d985a9",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "094f4e10e0d985a9",
+      "fromSide": "top",
+      "id": "d6858269917a33e7",
+      "toNode": "d1aa80a48a5955c6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b084066f368fc279",
+      "fromSide": "top",
+      "id": "2b9b5b320f304e8e",
+      "toNode": "58dcc65af971c977",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "58dcc65af971c977",
+      "fromSide": "left",
+      "id": "e1429dfbfb4baabb",
+      "toNode": "aeae5933fd1298f6",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "aeae5933fd1298f6",
+      "fromSide": "left",
+      "id": "e79137b67f93ea75",
+      "toNode": "094f4e10e0d985a9",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "094f4e10e0d985a9",
+      "fromSide": "top",
+      "id": "556d8150432dab99",
+      "toNode": "f982428a81e19284",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 680,
+      "id": "a352b780cd24fe31",
+      "label": "Main",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 250,
+      "x": -260,
+      "y": -620
+    },
+    {
+      "height": 294,
+      "id": "8dbc7d8c1d82881b",
+      "label": "Person",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 250,
+      "x": -980,
+      "y": -374
+    },
+    {
+      "height": 240,
+      "id": "f7dd8296a9e77ebe",
+      "label": "Film",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 250,
+      "x": 460,
+      "y": -400
+    },
+    {
+      "height": 60,
+      "id": "e6c8c76bdba0175a",
+      "styleAttributes": {
+      },
+      "text": "Film gesehen View",
+      "type": "text",
+      "width": 250,
+      "x": -260,
+      "y": -620
+    },
+    {
+      "height": 60,
+      "id": "cecdda275f47ca34",
+      "styleAttributes": {
+      },
+      "text": "Änderung Kreditkarte",
+      "type": "text",
+      "width": 250,
+      "x": -260,
+      "y": -560
+    },
+    {
+      "height": 68,
+      "id": "5d779d5408269acc",
+      "styleAttributes": {
+      },
+      "text": "Name",
+      "type": "text",
+      "width": 250,
+      "x": -980,
+      "y": -374
+    },
+    {
+      "height": 64,
+      "id": "8f522fffc7efb9fa",
+      "styleAttributes": {
+      },
+      "text": "Email",
+      "type": "text",
+      "width": 250,
+      "x": -980,
+      "y": -310
+    },
+    {
+      "height": 50,
+      "id": "d4a872665bc2efc9",
+      "styleAttributes": {
+      },
+      "text": "Kreditkarte",
+      "type": "text",
+      "width": 250,
+      "x": -980,
+      "y": -246
+    },
+    {
+      "height": 60,
+      "id": "69ed828137fe439f",
+      "styleAttributes": {
+      },
+      "text": "Kreditkarte",
+      "type": "text",
+      "width": 250,
+      "x": -980,
+      "y": -250
+    },
+    {
+      "height": 50,
+      "id": "f982428a81e19284",
+      "styleAttributes": {
+      },
+      "text": "Gerspeicherte Filme",
+      "type": "text",
+      "width": 250,
+      "x": -980,
+      "y": -190
+    },
+    {
+      "height": 60,
+      "id": "094f4e10e0d985a9",
+      "styleAttributes": {
+      },
+      "text": "Gespeichet in",
+      "type": "text",
+      "width": 250,
+      "x": -1140,
+      "y": 80
+    },
+    {
+      "height": 60,
+      "id": "d1aa80a48a5955c6",
+      "styleAttributes": {
+      },
+      "text": "Zahlungs methode",
+      "type": "text",
+      "width": 250,
+      "x": -980,
+      "y": -140
+    },
+    {
+      "height": 60,
+      "id": "1a5fc4bfc3a3687a",
+      "styleAttributes": {
+      },
+      "text": "Name",
+      "type": "text",
+      "width": 250,
+      "x": 460,
+      "y": -400
+    },
+    {
+      "height": 60,
+      "id": "b084066f368fc279",
+      "styleAttributes": {
+      },
+      "text": "Wer ?",
+      "type": "text",
+      "width": 250,
+      "x": -796,
+      "y": -617
+    },
+    {
+      "height": 60,
+      "id": "a1228bc3f33007a7",
+      "styleAttributes": {
+      },
+      "text": "Was ?",
+      "type": "text",
+      "width": 250,
+      "x": 335,
+      "y": -780
+    },
+    {
+      "height": 60,
+      "id": "98bcf519ff0b5ea8",
+      "styleAttributes": {
+      },
+      "text": "Ersetzen mit",
+      "type": "text",
+      "width": 250,
+      "x": -730,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "58dcc65af971c977",
+      "styleAttributes": {
+      },
+      "text": "Zalungsmethode",
+      "type": "text",
+      "width": 250,
+      "x": -260,
+      "y": -500
+    },
+    {
+      "height": 60,
+      "id": "aeae5933fd1298f6",
+      "styleAttributes": {
+      },
+      "text": "Auswahl",
+      "type": "text",
+      "width": 250,
+      "x": -682,
+      "y": 272
+    },
+    {
+      "height": 60,
+      "id": "818cd325c612991a",
+      "styleAttributes": {
+      },
+      "text": "Dauer",
+      "type": "text",
+      "width": 250,
+      "x": 460,
+      "y": -340
+    },
+    {
+      "height": 60,
+      "id": "65ad87590b258043",
+      "styleAttributes": {
+      },
+      "text": "Gerne",
+      "type": "text",
+      "width": 250,
+      "x": 460,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "a8047e48e1dcfda3",
+      "styleAttributes": {
+      },
+      "text": "Produzenten",
+      "type": "text",
+      "width": 250,
+      "x": 460,
+      "y": -220
+    }
+  ]
+}

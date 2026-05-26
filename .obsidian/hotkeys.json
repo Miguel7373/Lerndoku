@@ -1,0 +1,18 @@
+{
+  "obsidian-living-graph:toggle": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "obsidian-mind-map:app:markmap-preview": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ]
+}

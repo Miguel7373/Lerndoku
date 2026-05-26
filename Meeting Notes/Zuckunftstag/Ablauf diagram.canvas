@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"2e9197451e710a6c","type":"group","x":-220,"y":60,"width":717,"height":1278,"color":"#4400ff","label":"Presentation Begleitet"},
+		{"id":"8cf9550e04a4df6c","type":"group","x":-200,"y":580,"width":677,"height":738,"color":"5","label":"Kinder Arbeiten Lassen"},
+		{"id":"2692c23291cf0716","type":"text","text":"Selber arbeiten lassen mit hilfe stellungen","x":12,"y":1058,"width":250,"height":60,"color":"6"},
+		{"id":"6f6faa703f166f5e","type":"text","text":"Aufgaben Ux","x":12,"y":320,"width":250,"height":60,"color":"6"},
+		{"id":"bfe2737d9ec09807","type":"text","text":"Wichtiges","x":12,"y":440,"width":250,"height":60,"color":"6"},
+		{"id":"20fb7b9bb39b0811","type":"text","text":"Aspekte von UX","x":12,"y":200,"width":250,"height":60,"color":"6"},
+		{"id":"5db59de998d83a5c","type":"text","text":"Was ist Ux Mit Beispielen","x":12,"y":80,"width":250,"height":60,"color":"6"},
+		{"id":"92169c5ebfe9c21a","type":"text","text":"Eklärung\n(Sie sollen eine kleine website auf papier und sie so gestallte was sie unter ux jetzt verstehen also mit desing und user expirience)","x":12,"y":840,"width":250,"height":182,"color":"6"},
+		{"id":"f442117846bfa2cf","type":"text","text":"Warmup\nKinder Zeichnen selber simple Figuren\n","x":12,"y":680,"width":250,"height":122,"color":"6"},
+		{"id":"f25fe8733957e1a8","type":"text","text":"Auf gerät mit marbel testen was sie erschaffen haben","x":12,"y":1160,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[]
+}
