@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Puzzle/PC/Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Prometheus"
             }
           }
         ],
@@ -218,13 +218,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "2855fc67a3013a99",
+  "active": "8e185e31421a3c63",
   "lastOpenFiles": [
+    "README.md",
+    "Puzzle/PC/Prometheus.md",
+    "Puzzle/Lerndokus bei Puzzle.md",
+    "Puzzle/PC/firewalld.md",
+    "Puzzle/PC/bash.md",
+    "Puzzle/Git/-D.md",
     "TODO's/Skills/EntityManager.md",
     "TODO's/Todo TaperMonkey/Todo.md",
     "TODO's/All ToDo's.md",
     "Tunbern/All TunBern.md",
-    "README.md",
     "PCTS/All PCTS.md",
     "Techtalk/All Techtalk Notes.md",
     "Untitled.base",
@@ -245,11 +250,6 @@
     "Meeting Notes/IPA Presis/Marc.md",
     "Meeting Notes/TechTalk/Untitled.canvas",
     "Techtalk/DELAYED JOB'S.md",
-    "Meeting Notes/kafi/All Tech Kafis.md",
-    "Untitled.md",
-    "TagsRoutes/logMessage.md",
-    "Puzzle/Ruby on Rails/Delayed Job.md",
-    "IT Ninjas/All IT-Ninajs Events.md",
     "IT Ninjas/2025",
     "Puzzle/PC",
     "Puzzle/I18N",
