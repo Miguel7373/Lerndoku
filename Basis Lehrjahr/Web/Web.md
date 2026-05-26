@@ -1,4 +1,4 @@
-[[IT Ninjas/Web/HTML/HTML]]
+[[Basis Lehrjahr/Web/HTML/HTML]]
 [[CSS]]
 [[Java Script]]
 [[TypeScript]]

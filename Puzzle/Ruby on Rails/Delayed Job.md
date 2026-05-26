@@ -1,0 +1,1 @@
+![[Techtalk Delayed_job.pdf]]

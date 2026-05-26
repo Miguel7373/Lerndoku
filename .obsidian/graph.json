@@ -8,38 +8,66 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "file:Mid",
+      "query": "path:\"Basis Lehrjahr\" ",
       "color": {
         "a": 1,
-        "rgb": 4700321
+        "rgb": 14701138
       }
     },
     {
       "query": "path:\"IT Ninjas\"  ",
       "color": {
         "a": 1,
-        "rgb": 7536895
-      }
-    },
-    {
-      "query": "path:Puzzle  ",
-      "color": {
-        "a": 1,
-        "rgb": 3760382
+        "rgb": 14725458
       }
     },
     {
       "query": "path:\"Meeting Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Minecraft DB (Paco Auftrag)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Techtalk  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     },
     {
       "query": "path:TODO's  ",
       "color": {
         "a": 1,
-        "rgb": 5504
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Tunbern  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:PCTS  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
@@ -53,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 113,
-  "scale": 0.1548219603550446,
-  "close": true
+  "scale": 0.23223294053256663,
+  "close": false
 }

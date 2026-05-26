@@ -2,5 +2,5 @@
 [[Zoo]]
 [[Bibliothek]]
 [[roleplay]]
-[[IT Ninjas/Java/Aufgeben/Html]]
+[[Basis Lehrjahr/Java/Aufgeben/Html]]
 [[Spring]]

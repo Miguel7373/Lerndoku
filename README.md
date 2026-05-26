@@ -1,41 +1,32 @@
+# Basis Lehrjahr 
+[[All Basis Lernjahr]]
+
+# Lerndoku
 [[Lerndokus bei Puzzle]]
-[[All IT Ninjas]]
+
+# Project Notes
 [[All Project Notes]]
+
+# ToDos
 [[All ToDo's]]
 
+# Techtalk
+[[All Techtalk Notes]]
 
+# TunBern
+[[All TunBern]]
 
-MailTrap auf int und lokal zum testen (kostenlos biss zu 200mails a day)
-tests kannst du bis zum versenden schicken
-Du kannst auch über die konsole mailen 
+# Minecraft BD für Paco
+[[All Minecraft DB]]
 
+# Meeting Notes
+[[All Meeting Notes]]
 
+# PCTS
+[[All PCTS]]
 
-![[Pasted image 20250820113938.png]]
-
-![[Techtalk Delayed_job.pdf]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# IT-Ninajs
+[[All IT-Ninajs Events]]
 
 
 
