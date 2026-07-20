@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Puzzle/DB/Rails ActiveRecord Transactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Rails ActiveRecord Transactions"
             }
           },
           {
@@ -27,16 +27,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Puzzle/Git/CI CD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "CI CD"
+            }
+          },
+          {
+            "id": "87197b65ba191bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting Notes/kafi/Accessability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Accessability"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,42 +227,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "tags-routes:Open tags routes": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "tags-routes:Open tags routes": false
     }
   },
-  "active": "2855fc67a3013a99",
+  "active": "b8ba1f8504e1fc50",
   "lastOpenFiles": [
+    "Puzzle/DB/Commit & Rollback in Active Record.md",
+    "Puzzle/DB/Rails ActiveRecord Transactions.md",
+    "Puzzle/Git/CI CD.md",
+    "TODO's/Monteis/Working in.md",
+    "README.md",
+    "Puzzle/Ruby on Rails/Dry Crud.md",
+    "Puzzle/PC/Commands.md",
+    "Puzzle/PC/Openshift.md",
+    "Puzzle/Cypress E2E/Cypress E2E Testing.md",
+    "Puzzle/Bootstrap/Tooltips.md",
+    "Meeting Notes/All Meeting Notes.md",
+    "Meeting Notes/Elternabend.md",
+    "Meeting Notes/kafi/Accessability.md",
+    "Puzzle/DB",
+    "Puzzle/firewalld.md",
+    "Puzzle/bash.md",
+    "Puzzle/Prometheus.md",
+    "TODO's/Monteis",
+    "Puzzle/PC/Prometheus.md",
+    "Puzzle/PC/bash.md",
+    "Puzzle/PC/firewalld.md",
+    "Puzzle/Ruby on Rails/Active Support.md",
+    "Puzzle/Lerndokus bei Puzzle.md",
+    "Puzzle/Git/-D.md",
     "TODO's/Skills/EntityManager.md",
     "TODO's/Todo TaperMonkey/Todo.md",
     "TODO's/All ToDo's.md",
     "Tunbern/All TunBern.md",
-    "README.md",
-    "PCTS/All PCTS.md",
-    "Techtalk/All Techtalk Notes.md",
     "Untitled.base",
     "Untitled 1.base",
-    "Minecraft DB (Paco Auftrag)/All Minecraft DB.md",
-    "Minecraft DB (Paco Auftrag)/Minecraft DB (Paco).md",
     "Minecraft DB (Paco Auftrag)/Screenshot from 2025-11-24 09-15-55.png",
-    "Techtalk/Meeting Notes 06.01.2025.md",
-    "Meeting Notes/All Meeting Notes.md",
-    "Meeting Notes/Organistation Europapark.md",
-    "Meeting Notes/Retro.md",
-    "Meeting Notes/Elternabend.md",
-    "Meeting Notes/IT Ninjas.md",
-    "Meeting Notes/Zuckunftstag/All Zukunfts Tag.md",
-    "Meeting Notes/All Project Notes.md",
-    "Meeting Notes/UniLucern/All UniLu.md",
-    "Meeting Notes/IPA Presis/All IPA Presis.md",
-    "Meeting Notes/IPA Presis/Marc.md",
     "Meeting Notes/TechTalk/Untitled.canvas",
-    "Techtalk/DELAYED JOB'S.md",
-    "Meeting Notes/kafi/All Tech Kafis.md",
-    "Untitled.md",
-    "TagsRoutes/logMessage.md",
-    "Puzzle/Ruby on Rails/Delayed Job.md",
-    "IT Ninjas/All IT-Ninajs Events.md",
     "IT Ninjas/2025",
     "Puzzle/PC",
     "Puzzle/I18N",
@@ -259,10 +274,8 @@
     "PCTS",
     "Puzzle/Ruby on Rails/Pasted image 20260410084443.png",
     "Puzzle/Ruby on Rails/Pasted image 20260410084403.png",
-    "Techtalk/Techtalk Delayed_job.pdf",
     "Pasted image 20260130110625.png",
     "Pasted image 20260130110646.png",
-    "Minecraft DB (Paco Auftrag)",
     "Puzzle/Ruby on Rails/Rails file sytem.canvas",
     "Pasted image 20250522151012.jpg",
     "Pasted image 20250820113938.png",
